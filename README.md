@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manojkumar
 #### A passionate Web & android app developer from India
-![A passionate Web & android app developer from India](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate Web & android app developer from India](https://drive.google.com/file/d/1tI_aebQD9yLS1s6BqgKEcftEg519ToGf/view?usp=drivesdk)
 
 I'm Manojkumar , First year pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves 
 to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
