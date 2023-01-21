@@ -10,7 +10,7 @@ to take up new challenges and learn new skills. I love meeting new people, excha
 
 
 - 🔭 I’m currently working on Android app development. 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: codemub@gmail.com 
 - ⚡ Fun fact: I Think I am Funny 
 
