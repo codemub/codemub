@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manojkumar
 #### A passionate Web & android app developer from India
-![A passionate Web & android app developer from India](https://github.com/codemub/codemub/blob/main/github%20banner.jpg)
+![A passionate Mobile and Web app developer from India](https://github.com/codemub/codemub/blob/main/github%20banner.jpg)
 
 I'm Manojkumar , Pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves 
 to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
