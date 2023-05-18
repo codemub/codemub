@@ -12,8 +12,8 @@ to take up new challenges and learn new skills. I love meeting new people, excha
 - 🔭 I’m currently working on **Local Bus Project**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m interested in collaborating **with others**
--   👨‍💻 All of my projects are available at [manoj.codemub.com](manoj.codemub.com)
-- 📝 I regularly write articles on [www.codemub.com](www.codemub.com)
+-   👨‍💻 All of my projects are available at [https://manoj.codemub.com](manoj.codemub.com)
+- 📝 I regularly write articles on [https://www.codemub.com/](www.codemub.com)
 - 💬 Feel free to ask me **anything**
 - 📫 How to reach me **codemub@gmail.com**
 - ⚡ Fun fact **I have a good sense of humor!**
