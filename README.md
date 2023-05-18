@@ -10,19 +10,12 @@ to take up new challenges and learn new skills. I love meeting new people, excha
 <p align="left"> <a href="https://twitter.com/manojmarquez33" target="blank"><img src="https://img.shields.io/twitter/follow/manojmarquez33?logo=twitter&style=for-the-badge" alt="manojmarquez33" /></a> </p>
 
 - 🔭 I’m currently working on **Local Bus Project**
-
 - 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m interested in collaborating **with others**
-
-- 👨‍💻 All of my projects are available at [manoj.codemub.com](manoj.codemub.com)
-
+-   👨‍💻 All of my projects are available at [manoj.codemub.com](manoj.codemub.com)
 - 📝 I regularly write articles on [www.codemub.com](www.codemub.com)
-
 - 💬 Feel free to ask me **anything**
-
 - 📫 How to reach me **codemub@gmail.com**
-
 - ⚡ Fun fact **I have a good sense of humor!**
 
 <h3 align="left">Connect with me:</h3>
