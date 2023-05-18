@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Manojkumar
-#### A passionate Web & android app developer from India
+#### A passionate Mobile & Web app developer from India
 ![A passionate Mobile and Web app developer from India](https://github.com/codemub/codemub/blob/main/github%20banner.jpg)
 
 I'm Manojkumar , Pursuing Bachelors in Computer science and engineering. I am an enthusiastic and social person who loves 
@@ -32,6 +32,7 @@ to take up new challenges and learn new skills. I love meeting new people, excha
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manojmarquez33"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manojmarquez33" /></a></p><br><br>
+<p><p/>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemub&show_icons=true&locale=en&layout=compact" alt="codemub" /></p>
 
